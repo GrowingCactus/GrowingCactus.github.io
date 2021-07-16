@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://GrowingCactus.github.io</id>
+    <id>http://GrowingCactus.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-16T10:03:40.304Z</updated>
+    <updated>2021-07-16T10:06:29.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://GrowingCactus.github.io"/>
-    <link rel="self" href="https://GrowingCactus.github.io/atom.xml"/>
+    <link rel="alternate" href="http://GrowingCactus.github.io"/>
+    <link rel="self" href="http://GrowingCactus.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://GrowingCactus.github.io/images/avatar.png</logo>
-    <icon>https://GrowingCactus.github.io/favicon.ico</icon>
+    <logo>http://GrowingCactus.github.io/images/avatar.png</logo>
+    <icon>http://GrowingCactus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Test]]></title>
-        <id>https://GrowingCactus.github.io/post/test/</id>
-        <link href="https://GrowingCactus.github.io/post/test/">
+        <id>http://GrowingCactus.github.io/post/test/</id>
+        <link href="http://GrowingCactus.github.io/post/test/">
         </link>
         <updated>2021-07-16T08:56:00.000Z</updated>
         <content type="html"><![CDATA[<p>test</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://GrowingCactus.github.io/post/hello-gridea/</id>
-        <link href="https://GrowingCactus.github.io/post/hello-gridea/">
+        <id>http://GrowingCactus.github.io/post/hello-gridea/</id>
+        <link href="http://GrowingCactus.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
